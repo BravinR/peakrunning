@@ -12,7 +12,10 @@ const Footer = () => {
     <div className=' bg-black py-16 px-16 grid lg:grid-cols-3 gap-8 text-gray-300'>
       <div>
         <h1 className='w-full text-3xl font-bold text-[#00df9a]'>Peak Running Elite</h1>
-        <p className='py-4'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id odit ullam iste repellat consequatur libero reiciendis, blanditiis accusantium.</p>
+        <p className='py-4'>We offer a range of training programs and events, including 
+        Beginner 5K Training Program, Half Marathon Training Program and Advanced Marathon Training Program.
+         Whether you're training for your first 5K or your next marathon, 
+        our experienced coaches and supportive community will help you reach your goals.</p>
         <div className='flex justify-between md:w-[75%] my-6'>
             <FaFacebookSquare size={30} />
             <FaInstagram size={30} />
